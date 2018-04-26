@@ -1,6 +1,7 @@
 # UtilityFunctions
 
 - This function converts your string into title case excluding abbreviations.
+- Language JavaScript
 
 ```
 function toTitleCaseExcludingAbbreviation(data){

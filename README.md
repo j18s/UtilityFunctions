@@ -1,4 +1,7 @@
 # UtilityFunctions
+
+- This function converts your string into title case excluding abbreviations.
+
 ```
 function toTitleCaseExcludingAbbreviation(data){
     function isUpperCase(str) {
